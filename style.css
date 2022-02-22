@@ -1,0 +1,43 @@
+table{
+    margin-top: 70px;
+    margin-left: 188px;
+    position: absolute;
+}
+
+li{
+    font-size : 20px;
+ 
+}
+.nav-link{
+    color : #2F4F4F;
+}
+ul{
+    background-color : #DCDCDC ;
+  
+}
+
+tr th {
+    border: #5c5c5c solid;
+    text-align: center;
+    height: 10px;
+}
+tr td {
+    border: #5c5c5c solid;
+    text-align: center;
+    padding: 13px 36px;
+
+
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+button:hover{
+    background-color: rgb(161, 101, 101);
+    color: rgb(255, 255, 255);
+}
+#btnAjoute{
+    position: absolute;
+    margin-left: 1068px;
+    margin-top: 39px;
+}
